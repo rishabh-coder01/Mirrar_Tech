@@ -1,6 +1,6 @@
 # Welcome to your Lovable project
 
-This project was built with [Lovable](https://lovable.dev).
+This project was built with VSCode.
 
 ## Build with Lovable
 
